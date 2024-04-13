@@ -62,6 +62,7 @@ function reducer(state, action) {
         questions: state.questions,
         status: "active",
         highscore: state.highscore,
+        remainingSeconds: state.questions.length * SECS_PER_QUESTION,
       };
     case "tick":
       return {

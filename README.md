@@ -2,7 +2,7 @@
 
 _The React Quiz_ is a CRA application containing 15 multiple choice questions on React framework. 
 
-
+![demo](./public/demo.gif)
 
 ## Getting started 
 This app mocks out a call to a fake API hosted on a fake server by the use of an npm package called json-server. To run this project, you will need to run the following commands to start the server and the front end:
