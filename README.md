@@ -12,9 +12,9 @@ This app mocks out a call to a fake API hosted on a fake server by the use of an
 
 ## Features
 
-- ### Multiple choice questions.
-- ### Count down timer.
-- ### Progress bar displaying the current question and the number of points received from answering questions correctly.
-- ### The quiz terminates when the timer runs out.
-- ### The results are displayed to the user upon finishing the quiz, such as the points they received and the percentage of correct answers.
-- ### Ability to restart the quiz.
+- Multiple choice questions.
+- Count down timer.
+- Progress bar displaying the current question and the number of points received from answering questions correctly.
+- The quiz terminates when the timer runs out.
+- The results are displayed to the user upon finishing the quiz, such as the points they received and the percentage of correct answers.
+- Ability to restart the quiz.
